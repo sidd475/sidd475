@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sidd475
-- 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...email
+- 👋 Hi, I’m Siddarth BS
+- I have done my under graduate in AI/Ml
+- Explored ml,dl topics and currently intrested in agentic AI
+- Also learning golang to work with backend systems
+- How to reach me ... siddarthbs475@gmail.com
 
 <!---
 sidd475/sidd475 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
